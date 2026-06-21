@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&height=100&lines=Data+Scientist;GenAI+Engineer;Machine+Learning+Software+Engineer;Bridging+The+Gap+Between;Research,+Science,+And+Production+Grade+Engineering" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&height=120&lines=Data+Scientist;GenAI+Engineer;Machine+Learning+Software+Engineer;Bridging+The+Gap+Between;Research,+Science,+And+Production+Grade+Engineering" alt="Typing SVG" />
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khethokuhlekhuzwayo-b055621b8)
@@ -13,7 +14,7 @@
 
 ---
 
-###  About Me
+### 👋 About Me
 
 I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors**, where I built NLP pipelines, ML models, and LLM prototypes on real enterprise data — now transitioning fully into **ML Engineering** and **AI Engineering**. I care about shipping models and AI systems into production, not leaving them in notebooks.
 
@@ -59,6 +60,7 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 <br/>
 
 ---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -191,12 +193,12 @@ Domain-specific NLP system across 5 business functions — Customer Sales, Custo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Khetha0121&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khetha0121&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Khetha0121&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khetha0121&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khetha0121&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khetha0121&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
