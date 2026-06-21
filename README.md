@@ -59,7 +59,6 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 <br/>
 
 ---
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -119,6 +118,7 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white)
 <br/>
+
 
 ### 🚀 Featured Projects
 
