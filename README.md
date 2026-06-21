@@ -19,28 +19,28 @@
 I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors**, where I built NLP pipelines, ML models, and LLM prototypes on real enterprise data — now transitioning fully into **ML Engineering** and **AI Engineering**. I care about shipping models and AI systems into production, not leaving them in notebooks.
 
 -  Currently an **ML Engineering Intern** at Data Analyst Lab, and joining **FlyRank AI** as a Backend AI Engineering Intern in July 2026
-- 🌱 In progress: **LLM Zoomcamp** (DataTalks.Club — RAG, agents, vector search) and the **Krish Naik MLOps Bootcamp** (GCP, Kubernetes, Docker, Jenkins)
-- 💼 2+ years at Toyota SA — built a zero-label semantic NLP classification system across 5 business functions, fine-tuned transformer models, and shipped Power BI dashboards to non-technical stakeholders
-- 🎯 Open to **ML Engineer / AI Engineer / AI-ML Software Engineer** roles — Johannesburg or fully remote
-- ⚡ Quant background: BSc Honours, Mathematics of Finance (University of Pretoria) — Black-Scholes, Monte Carlo, stochastic modelling
+- In progress: **LLM Zoomcamp** (DataTalks.Club — RAG, agents, vector search) and the **Krish Naik MLOps Bootcamp** (GCP, Kubernetes, Docker, Jenkins)
+- 2+ years at Toyota SA — built a zero-label semantic NLP classification system across 5 business functions, fine-tuned transformer models, and shipped Power BI dashboards to non-technical stakeholders
+-  Open to **ML Engineer / AI Engineer / AI-ML Software Engineer** roles — Johannesburg or fully remote
+- Quant background: BSc Honours, Mathematics of Finance (University of Pretoria) — Black-Scholes, Monte Carlo, stochastic modelling
 
 <br/>
 
 ---
 
-### 💡 What Sets Me Apart
+###  What Sets Me Apart
 
-- 🔬 **Zero-label NLP pipeline** — Built a semantic classification system across 5 business functions with no annotation budget, saving thousands in labelling costs
-- 📊 **Quant foundation** — BSc Honours in Mathematics of Finance (Black-Scholes, Monte Carlo, stochastic modelling)
-- 🚀 **Full-stack AI** — From Jupyter notebooks to production APIs with CI/CD, monitoring, and automated retraining
-- 🤖 **Agentic AI** — Building multi-agent systems with Google ADK and Gemini 2.0 Flash
-- 🏭 **Production-first mindset** — I build systems that ship, not just prototypes
+- **Zero-label NLP pipeline** — Built a semantic classification system across 5 business functions with no annotation budget, saving thousands in labelling costs
+- **Quant foundation** — BSc Honours in Mathematics of Finance (Black-Scholes, Monte Carlo, stochastic modelling)
+- **Full-stack AI** — From Jupyter notebooks to production APIs with CI/CD, monitoring, and automated retraining
+- **Agentic AI** — Building multi-agent systems with Google ADK and Gemini 2.0 Flash
+- **Production-first mindset** — I build systems that ship, not just prototypes
 
 <br/>
 
 ---
 
-### 🔥 Currently Building
+###  Currently Building
 
 - **Production RAG Application** — Agentic RAG with vector search (PGVector), evaluation (LLM-as-a-Judge), and monitoring with feedback loops (LLM Zoomcamp capstone)
 - **MLOps on GCP** — End-to-end ML deployments with Kubernetes, Jenkins, CI/CD, and cloud infrastructure (Krish Naik Bootcamp)
@@ -50,7 +50,7 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 
 ---
 
-### 💼 Impact Highlights
+### Impact Highlights
 
 - **Toyota SA:** Zero-label NLP pipeline across 5 business functions → informed a new vehicle launch campaign, provided employee sentiment insights, and enabled defect pattern analysis
 - **Ensemble Classifier:** 92% F1 threshold for production promotion — only models meeting this standard reach staging
@@ -61,7 +61,7 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -112,10 +112,10 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <details>
-<summary><b>⭐ [FEATURED] Multi-Agent Marketing Campaign System</b></summary>
+<summary><b> [FEATURED] Multi-Agent Marketing Campaign System</b></summary>
 <br/>
 
 **Python · Google ADK · Gemini 2.0 Flash · AI Agents**
@@ -132,7 +132,7 @@ A 5-agent pipeline built on Google's Agent Development Kit (ADK) — Market Rese
 </details>
 
 <details>
-<summary><b>📦 SA Spam/Ham Classifier — End-to-End MLOps Pipeline</b></summary>
+<summary><b> SA Spam/Ham Classifier — End-to-End MLOps Pipeline</b></summary>
 <br/>
 
 **Python · FastAPI · Docker · MLflow · DVC · Prefect · Scikit-learn · GitHub Actions**
