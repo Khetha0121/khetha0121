@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&height=100&lines=Data+Scientist;GenAI+Engineer;Machine+Learning+Software+Engineer;Bridging+The+ Gap+ Between;Research,+Science,+And+Production+Grade+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&height=100&lines=Data+Scientist;GenAI+Engineer;Machine+Learning+Software+Engineer;Bridging+The+Gap+ Between;Research,+Science,+And+Production+Grade+Engineering" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khethokuhlekhuzwayo-b055621b8)
