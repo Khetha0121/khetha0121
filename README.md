@@ -20,7 +20,7 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 
 - 🔭 Currently an **ML Engineering Intern** at Data Analyst Lab, and joining **FlyRank AI** as a Backend AI Engineering Intern in July 2026
 - 🌱 In progress: **LLM Zoomcamp** (DataTalks.Club — RAG, agents, vector search) and the **Krish Naik MLOps Bootcamp** (GCP, Kubernetes, Docker, Jenkins)
-- 💼 3 years at Toyota SA — built a zero-label semantic NLP classification system across 5 business functions, fine-tuned transformer models, and shipped Power BI dashboards to non-technical stakeholders
+- 💼 2+ years at Toyota SA — built a zero-label semantic NLP classification system across 5 business functions, fine-tuned transformer models, and shipped Power BI dashboards to non-technical stakeholders
 - 🎯 Open to **ML Engineer / AI Engineer / AI-ML Software Engineer** roles — Johannesburg or fully remote
 - ⚡ Quant background: BSc Honours, Mathematics of Finance (University of Pretoria) — Black-Scholes, Monte Carlo, stochastic modelling
 
@@ -122,10 +122,10 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 
 A 5-agent pipeline built on Google's Agent Development Kit (ADK) — Market Researcher, Messaging Strategist, Ad Copy Writer, Visual Suggester, and Campaign Brief Formatter — running sequentially from brief to finished output.
 
-- ✅ State-based handoffs ensure each agent only consumes verified output from the one before it
-- ✅ Source-citation enforcement with explicit no-invention system prompts
-- ✅ Temperature 0.3 for deterministic, consistent outputs
-- ✅ Centralised ToolRegistry with Google Search grounding
+- State-based handoffs ensure each agent only consumes verified output from the one before it
+- Source-citation enforcement with explicit no-invention system prompts
+- Temperature 0.3 for deterministic, consistent outputs
+- Centralised ToolRegistry with Google Search grounding
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khetha0121/AI-Agents)
 
@@ -139,47 +139,47 @@ A 5-agent pipeline built on Google's Agent Development Kit (ADK) — Market Rese
 
 A complete notebook-to-deployed-API pipeline:
 
-- ✅ Prefect orchestration with data quality gates
-- ✅ DVC for data versioning and MLflow for experiment tracking
-- ✅ Ensemble classifier (Logistic Regression + Naive Bayes + LinearSVC) — F1 ≥ 0.92 to reach staging
-- ✅ FastAPI serving in Docker with Prometheus monitoring
-- ✅ Evidently drift detection wired to automated retraining triggers
-- ✅ GitHub Actions CI/CD — PRs blocked on failing tests, merges trigger retraining and Docker builds
-- ✅ SA-specific NLP: Rand amounts, local phone numbers, phishing patterns
+- Prefect orchestration with data quality gates
+- DVC for data versioning and MLflow for experiment tracking
+- Ensemble classifier (Logistic Regression + Naive Bayes + LinearSVC) — F1 ≥ 0.92 to reach staging
+- FastAPI serving in Docker with Prometheus monitoring
+- Evidently drift detection wired to automated retraining triggers
+- GitHub Actions CI/CD — PRs blocked on failing tests, merges trigger retraining and Docker builds
+- SA-specific NLP: Rand amounts, local phone numbers, phishing patterns
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khetha0121/mlops-spam-classifier)
 
 </details>
 
 <details>
-<summary><b>💹 Stock Option Portfolio Simulation</b></summary>
+<summary><b>Stock Option Portfolio Simulation</b></summary>
 <br/>
 
 **Python · NumPy · SciPy · Monte Carlo · Black-Scholes**
 
 Monte Carlo simulation of an options portfolio under the Black-Scholes framework:
-- ✅ Thousands of price path scenarios
-- ✅ Discrete-time dynamic delta hedging implementation
-- ✅ Time series analysis on real Yahoo Finance data
-- ✅ Demonstrates quantitative and stochastic modelling skills
+- Thousands of price path scenarios
+- Discrete-time dynamic delta hedging implementation
+- Time series analysis on real Yahoo Finance data
+- Demonstrates quantitative and stochastic modelling skills
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khetha0121/stock-option-simulation)
 
 </details>
 
 <details>
-<summary><b>🔍 Enterprise NLP Pipeline (Toyota SA)</b></summary>
+<summary><b> Enterprise NLP Pipeline (Toyota SA)</b></summary>
 <br/>
 
 **Python · Sentence Transformers · HuggingFace · Power BI**
 
 Domain-specific NLP system across 5 business functions — Customer Sales, Customer Service, Technical, Marketing, and HR:
 
-- ✅ **Zero-labelled data approach** using semantic similarity from Sentence Transformers
-- ✅ Manual ontology construction from raw text analysis
-- ✅ Classification powered by HuggingFace word embeddings
-- ✅ **Interactive Power BI dashboards** for non-technical stakeholders
-- ✅ **Business Impact:** Informed new vehicle sales campaign, employee sentiment insights, defect pattern analysis
+- **Zero-labelled data approach** using semantic similarity from Sentence Transformers
+- Manual ontology construction from raw text analysis
+- Classification powered by HuggingFace word embeddings
+- **Interactive Power BI dashboards** for non-technical stakeholders
+- **Business Impact:** Informed new vehicle sales campaign, employee sentiment insights, defect pattern analysis
 
 *Note: Code sanitized to remove proprietary enterprise data*
 
@@ -189,7 +189,7 @@ Domain-specific NLP system across 5 business functions — Customer Sales, Custo
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
 
@@ -206,36 +206,36 @@ Domain-specific NLP system across 5 business functions — Customer Sales, Custo
 
 ---
 
-### 🎓 Education
+###  Education
 
 **BSc Honours, Mathematics of Finance** — University of Pretoria *(2023)*
 - Financial Engineering, Stochastic Modelling, Probability Theory, Optimisation, Time Series Analysis
 
 **BSc, Computer Science & Mathematics** — University of KwaZulu-Natal *(2020)*
-- 🏅 **Certificate of Merit** in Real Analysis, Differential Equations, Complex Analysis
-- 🏆 **Best 3rd Year Pure Mathematics Student** — top-ranked across the year group
+-  **Certificate of Merit** in Real Analysis, Differential Equations, Complex Analysis
+-  **Best 3rd Year Pure Mathematics Student** — top-ranked across the year group
 - Relevant coursework: Object-Oriented Programming, Advanced Programming, Software Design, AI, Algorithms, Data Structures, Linear Algebra, Calculus
 
 <br/>
 
 ---
 
-### 📝 Latest Updates
+###  Latest Updates
 
-- 🎓 [In Progress] LLM Zoomcamp — Building production RAG with agentic workflows, evaluation, and monitoring
-- 🚀 [In Progress] MLOps Bootcamp — GCP deployment with Kubernetes, Jenkins, and CI/CD
-- 🏢 [Upcoming] Backend AI Engineering Intern — FlyRank AI (July 2026)
-- 💼 [Current] ML Engineering Intern — Data Analyst Lab
+- [In Progress] LLM Zoomcamp — Building production RAG with agentic workflows, evaluation, and monitoring
+- [In Progress] MLOps Bootcamp — GCP deployment with Kubernetes, Jenkins, and CI/CD
+-  [Upcoming] Backend AI Engineering Intern — FlyRank AI (July 2026)
+-  [Current] ML Engineering Intern — Data Analyst Lab
 
 <br/>
 
 ---
 
-### 💬 Let's Build Something Great
+###  Let's Build Something Great
 
 <div align="center">
 
-📧 [khethakhuzwayo.kk2@gmail.com](mailto:khethakhuzwayo.kk2@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/khethokuhlekhuzwayo-b055621b8) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Khetha0121)
+ [khethakhuzwayo.kk2@gmail.com](mailto:khethakhuzwayo.kk2@gmail.com) &nbsp;|&nbsp;  [LinkedIn](https://linkedin.com/in/khethokuhlekhuzwayo-b055621b8) &nbsp;|&nbsp;  [GitHub](https://github.com/Khetha0121)
 
 **Open to ML Engineer / AI Engineer / AI-ML Software Engineer roles** — Johannesburg or fully remote
 
