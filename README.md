@@ -86,12 +86,10 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-**NLP**
+**NLP & GenAI**
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat-square)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-3776AB?style=flat-square)
-
-**GenAI**
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
