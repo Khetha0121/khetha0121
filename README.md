@@ -74,7 +74,7 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-4B0082?style=flat-square
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-4B0082?style=flat-square)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4B0082?style=flat-square)
 ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-4B0082?style=flat-square)
 
