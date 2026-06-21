@@ -13,9 +13,9 @@
 
 ---
 
-### 👋 About Me
+###  About Me
 
-I'm a Data Scientist with 3 years of experience at **Toyota South Africa Motors**, where I built NLP pipelines, ML models, and LLM prototypes on real enterprise data — now transitioning fully into **ML Engineering** and **AI Engineering**. I care about shipping models and AI systems into production, not leaving them in notebooks.
+I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors**, where I built NLP pipelines, ML models, and LLM prototypes on real enterprise data — now transitioning fully into **ML Engineering** and **AI Engineering**. I care about shipping models and AI systems into production, not leaving them in notebooks.
 
 - 🔭 Currently an **ML Engineering Intern** at Data Analyst Lab, and joining **FlyRank AI** as a Backend AI Engineering Intern in July 2026
 - 🌱 In progress: **LLM Zoomcamp** (DataTalks.Club — RAG, agents, vector search) and the **Krish Naik MLOps Bootcamp** (GCP, Kubernetes, Docker, Jenkins)
@@ -99,11 +99,18 @@ I'm a Data Scientist with 3 years of experience at **Toyota South Africa Motors*
 
 **Data Science & Big Data**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3F8600?style=flat-square&logo=xgboost&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 <br/>
 
 ---
