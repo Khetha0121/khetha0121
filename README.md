@@ -88,6 +88,13 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 <br/>
 
+**MLOps**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Evidently AI](https://img.shields.io/badge/Evidently%20AI-FF4B4B?style=flat-square)
+<br/>
+
 
 ### 🚀 Featured Projects
 
