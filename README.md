@@ -18,7 +18,7 @@
 
 I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors**, where I built NLP pipelines, ML models, and LLM prototypes on real enterprise data — now transitioning fully into **ML Engineering** and **AI Engineering**. I care about shipping models and AI systems into production, not leaving them in notebooks.
 
-- 🔭 Currently an **ML Engineering Intern** at Data Analyst Lab, and joining **FlyRank AI** as a Backend AI Engineering Intern in July 2026
+-  Currently an **ML Engineering Intern** at Data Analyst Lab, and joining **FlyRank AI** as a Backend AI Engineering Intern in July 2026
 - 🌱 In progress: **LLM Zoomcamp** (DataTalks.Club — RAG, agents, vector search) and the **Krish Naik MLOps Bootcamp** (GCP, Kubernetes, Docker, Jenkins)
 - 💼 2+ years at Toyota SA — built a zero-label semantic NLP classification system across 5 business functions, fine-tuned transformer models, and shipped Power BI dashboards to non-technical stakeholders
 - 🎯 Open to **ML Engineer / AI Engineer / AI-ML Software Engineer** roles — Johannesburg or fully remote
