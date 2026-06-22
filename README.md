@@ -53,7 +53,7 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 ### Impact Highlights
 
 - **Toyota SA:** Zero-label NLP pipeline across 5 business functions → informed a new vehicle launch campaign, provided employee sentiment insights, and enabled defect pattern analysis
-- **Ensemble Classifier:** 92% F1 threshold for production promotion — only models meeting this standard reach staging
+- **Ensemble Classifier:** 92% F1 threshold for production promotion only models meeting this standard reach staging
 - **Multi-Agent System:** 5 agents working sequentially with zero hallucination across boundaries, enforcing source citations
 - **Management Experience:** Promoted to Assistant Manager overseeing dealership technical systems across the Toyota SA dealer network
 
