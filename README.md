@@ -235,7 +235,7 @@ Domain-specific NLP system across 5 business functions — Customer Sales, Custo
 
  [khethakhuzwayo.kk2@gmail.com](mailto:khethakhuzwayo.kk2@gmail.com) &nbsp;|&nbsp;  [LinkedIn](https://www.linkedin.com/in/khethokuhle-khuzwayo-b055621b8/) &nbsp;|&nbsp;  [GitHub](https://github.com/Khetha0121)
 
-**Open to ML Engineer / AI Engineer / AI-ML Software Engineer roles** — Johannesburg or fully remote
+**Open to ML Engineer / AI Engineer / AI-ML Software Engineer roles** — South Africa or fully remote
 
 <br/>
 
