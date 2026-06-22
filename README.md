@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors**, where I built NLP pipelines, ML models, and LLM prototypes on real enterprise data — now transitioning fully into **ML Engineering** and **AI Engineering**. I care about shipping models and AI systems into production, not leaving them in notebooks.
+I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors**, where I built NLP pipelines, ML models, and LLM prototypes on real enterprise data now transitioning fully into **ML Engineering** and **AI Engineering**. I care about shipping models and AI systems into production, not leaving them in notebooks.
 
 -  Currently an **ML Engineering Intern** at Data Analyst Lab, and joining **FlyRank AI** as a Backend AI Engineering Intern in July 2026
 - In progress: **LLM Zoomcamp** (DataTalks.Club — RAG, agents, vector search)
@@ -44,7 +44,6 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 ###  Currently Building
 
 - **Production RAG Application** Agentic RAG with vector search (PGVector), evaluation (LLM-as-a-Judge), and monitoring with feedback loops (LLM Zoomcamp capstone)
-- **MLOps on GCP** End-to-end ML deployments with Kubernetes, Jenkins, CI/CD, and cloud infrastructure (Krish Naik Bootcamp)
 - **AI Agent Systems**  Multi-agent workflows with Google ADK, tool integration, and production-grade prompt engineering
 
 <br/>
