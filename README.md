@@ -18,8 +18,8 @@
 
 I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors**, where I built NLP pipelines, ML models, and LLM prototypes on real enterprise data now transitioning fully into **ML Engineering** and **AI Engineering**. I care about shipping models and AI systems into production, not leaving them in notebooks.
 
--  Currently an **ML Engineering Intern** at Data Analyst Lab, and joining **FlyRank AI** as a Backend AI Engineering Intern in July 2026
-- In progress: **LLM Zoomcamp** (DataTalks.Club — RAG, agents, vector search)
+-  Currently an **ML Engineering Intern** at Analyst Lab Africa
+- In progress: **LLM Zoomcamp** (DataTalks.Club RAG, agents, vector search)
 - 2+ years at Toyota SA  built a zero-label semantic NLP classification system across 5 business functions, fine-tuned transformer models, and shipped Power BI dashboards to non-technical stakeholders
 -  Open to **ML Engineer / AI Engineer / AI-ML Software Engineer** roles  Johannesburg or fully remote
 - Quant background: BSc Honours, Mathematics of Finance (University of Pretoria) Black-Scholes, Monte Carlo, stochastic modelling
@@ -120,7 +120,7 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 
 **Python · Google ADK · Gemini 2.0 Flash · AI Agents**
 
-A 5-agent pipeline built on Google's Agent Development Kit (ADK) — Market Researcher, Messaging Strategist, Ad Copy Writer, Visual Suggester, and Campaign Brief Formatter — running sequentially from brief to finished output.
+A 5-agent pipeline built on Google's Agent Development Kit (ADK)  Market Researcher, Messaging Strategist, Ad Copy Writer, Visual Suggester, and Campaign Brief Formatter running sequentially from brief to finished output.
 
 - State-based handoffs ensure each agent only consumes verified output from the one before it
 - Source-citation enforcement with explicit no-invention system prompts
