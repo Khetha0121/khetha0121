@@ -224,9 +224,7 @@ Domain-specific NLP system across 5 business functions — Customer Sales, Custo
 ###  Latest Updates
 
 - [In Progress] LLM Zoomcamp — Building production RAG with agentic workflows, evaluation, and monitoring
-- [In Progress] MLOps Bootcamp — GCP deployment with Kubernetes, Jenkins, and CI/CD
--  [Upcoming] Backend AI Engineering Intern — FlyRank AI (July 2026)
--  [Current] ML Engineering Intern — Data Analyst Lab
+-  [Current] ML Engineering Intern — AnalsytLab Africa
 
 <br/>
 
