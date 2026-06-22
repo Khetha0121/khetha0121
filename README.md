@@ -102,7 +102,7 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
 ![Evidently AI](https://img.shields.io/badge/Evidently%20AI-FF4B4B?style=flat-square)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 
 <br/>
 
