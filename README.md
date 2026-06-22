@@ -31,11 +31,11 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 
 ###  What Sets Me Apart
 
-- **Zero-label NLP pipeline** — Built a semantic classification system across 5 business functions with no annotation budget, saving thousands in labelling costs
-- **Quant foundation** — BSc Honours in Mathematics of Finance (Black-Scholes, Monte Carlo, stochastic modelling)
-- **Full-stack AI** — From Jupyter notebooks to production APIs with CI/CD, monitoring, and automated retraining
-- **Agentic AI** — Building multi-agent systems with Google ADK and Gemini 2.0 Flash
-- **Production-first mindset** — I build systems that ship, not just prototypes
+- **Zero-label NLP pipeline**  Built a semantic classification system across 5 business functions with no annotation budget, saving thousands in labelling costs
+- **Quant foundation**  BSc Honours in Mathematics of Finance (Black-Scholes, Monte Carlo, stochastic modelling)
+- **Full-stack AI** From Jupyter notebooks to production APIs with CI/CD, monitoring, and automated retraining
+- **Agentic AI** Building multi-agent systems with Google ADK and Gemini 2.0 Flash
+- **Production-first mindset** I build systems that ship, not just prototypes
 
 <br/>
 
@@ -43,9 +43,9 @@ I'm a Data Scientist with 2+ years of experience at **Toyota South Africa Motors
 
 ###  Currently Building
 
-- **Production RAG Application** — Agentic RAG with vector search (PGVector), evaluation (LLM-as-a-Judge), and monitoring with feedback loops (LLM Zoomcamp capstone)
-- **MLOps on GCP** — End-to-end ML deployments with Kubernetes, Jenkins, CI/CD, and cloud infrastructure (Krish Naik Bootcamp)
-- **AI Agent Systems** — Multi-agent workflows with Google ADK, tool integration, and production-grade prompt engineering
+- **Production RAG Application** Agentic RAG with vector search (PGVector), evaluation (LLM-as-a-Judge), and monitoring with feedback loops (LLM Zoomcamp capstone)
+- **MLOps on GCP** End-to-end ML deployments with Kubernetes, Jenkins, CI/CD, and cloud infrastructure (Krish Naik Bootcamp)
+- **AI Agent Systems**  Multi-agent workflows with Google ADK, tool integration, and production-grade prompt engineering
 
 <br/>
 
